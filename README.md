@@ -24,7 +24,7 @@ Interact with the working prototype here:
 
 Below is a quick screenshot preview of the UI:
 
-![Smart Home UI Preview](Screenshot%20\(95\).png)
+![Smart Home UI Preview](design-preview.png)
 
 ---
 
